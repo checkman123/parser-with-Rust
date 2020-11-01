@@ -1,4 +1,4 @@
-# Rust Programming Assignment: 3Point Grammar Lexical and Syntax Analysis
+# Assignment: Rust Programming Assignment: 3Point Grammar Lexical and Syntax Analysis
 
 ## Motivation
 Rust is becoming a popular language. It was created to have high performance, reliability and productivity. The code is compiled and it claims to have advanced optimizations that produce stable and efficient programs. It has concurrent abilities, it provides memory safety without a runtime garbage collector.
